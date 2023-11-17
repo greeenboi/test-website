@@ -25,7 +25,7 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
         <p>
-          HI THIS IS AMIT TIWARI, Make some changes for me 😭😭😭😭
+          HI THIS IS AMIT TIWARI, Make some changes for me 
         </p>
       </div>
 
